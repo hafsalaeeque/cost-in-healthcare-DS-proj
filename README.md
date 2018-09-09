@@ -1,2 +1,2 @@
-# cost-in-healthcare-DS-proj
-I will be finding insights about the drivers of cost of care for healthcare.
+# Drivers of cost in healthcare
+I will be finding insights on the drivers of cost of care in healthcare.
